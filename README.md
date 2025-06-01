@@ -38,4 +38,7 @@ Or:
 
 ```bash
 git clone https://github.com/Jeikarthik/astrotrack.git
+cd astrotrack
+npm install
+npm start
 
