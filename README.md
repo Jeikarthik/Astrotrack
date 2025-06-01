@@ -37,5 +37,5 @@ AstroTrack is a cross-platform mobile and web application designed to make astro
 Or:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/astrotrack.git
+git clone https://github.com/Jeikarthik/astrotrack.git
 
